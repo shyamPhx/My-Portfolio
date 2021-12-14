@@ -2,4 +2,4 @@
 
 Personal Static Website
 
-[shyamphx](https://ahsankhan.me)
+[shyamphx](https://fervent-wing-e0a04f.netlify.app)
