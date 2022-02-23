@@ -9505,7 +9505,8 @@ textarea.form-control {
   outline: none !important;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  font-size: 15px; }
+  font-size: 15px;
+ }
 
 .block-21 .blog-img {
   display: block;
